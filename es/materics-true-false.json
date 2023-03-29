@@ -6,10 +6,12 @@
         {
           "name": "Bielorrusia",
           "capital": "Minsk",
+          "population": "9,5 millones kl",
           "bool": "FALSO"
         },
         {
           "name": "Rusia",
+          "capital": "Moscúhl",
           "population": "144,5 millones",
           "bool": "verdadero"
         }
